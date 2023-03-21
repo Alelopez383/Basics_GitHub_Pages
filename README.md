@@ -1,6 +1,8 @@
 # Basics_GitHub_Pages
 Building a basic template for deploying a static website using GitHub Pages.
 
+### Note: All the files that Im using comes from my Final Proyect for the "Data Analytics and visualization" Bootcamp of Tec de Monterrey. The Final Proyect "Presidential Elections in the US (2000-2020): the ideology behind the citizen vote" was built by the ElectionTeam2022.
+
 # Steps
 
 * Create a new repository on GitHub:
@@ -14,12 +16,13 @@ Building a basic template for deploying a static website using GitHub Pages.
   - styles.css
   - scripts.js
   - images (folder)
+
  
 * Commit the changes to the "gh-pages" branch using Git.
 * Configure the repository settings:
   - Go to your repository settings by clicking on the **"Settings"** tab.
-  - Scroll down to the **"GitHub Pages"** section.
-  - In the **"Source"** dropdown menu, select "gh-pages branch".
+  - Scroll down to the **"Pages"** section.
+  - In the **"Source"** dropdown menu, select **"gh-pages branch"** and select **"docs"**.
   - Click the **"Save"** button.
 
 * Verify your deployment:
