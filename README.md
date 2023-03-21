@@ -30,3 +30,5 @@ Building a basic template for deploying a static website using GitHub Pages.
   - Click on the link to make sure your website is working.
   
 **That's it!** Your website should now be live and accessible at the URL provided by GitHub Pages.
+
+* Now, you can got to your gh-page anytime by clicking the link below the **"Environments"** section, in the right side of the page. If everything is OK, you should see an **"Active"** status.
