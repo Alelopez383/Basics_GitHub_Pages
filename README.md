@@ -18,7 +18,7 @@ Building a basic template for deploying a static website using GitHub Pages.
   - images (folder)
 
  
-* Commit the changes to the "gh-pages" branch using Git.
+* Commit the changes to the **"gh-pages"** branch using Git.
 * Configure the repository settings:
   - Go to your repository settings by clicking on the **"Settings"** tab.
   - Scroll down to the **"Pages"** section.
@@ -29,7 +29,7 @@ Building a basic template for deploying a static website using GitHub Pages.
   - Wait a few minutes for your website to be deployed. You should see a message that says **"Your site is ready to be published at https://your-username.github.io/your-repo-name/"**.
   - Click on the link to make sure your website is working.
   
-* Now, you can go to your gh-page anytime by clicking the link below the **"Environments"** section, in the middle right-hand side of the page. If everything is OK, you should see an **"Active"** status.
+* Now, you can go to your **"gh-page"** anytime by clicking the link below the **"Environments"** section, in the middle right-hand side of the page. If everything is OK, you should see an **"Active"** status.
 
 * In **"Deployments"** you can click **"View deployment"** and check the history of all the github pages you have done.
 
